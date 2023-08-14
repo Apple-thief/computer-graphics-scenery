@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1442,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1442,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1442,10): message : the missing variadic argument 2 is required by format string '%c'
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1442,10): message : this argument is used as a buffer size
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1448,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1449,19): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Project1.vcxproj -> D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Debug\Project1.exe

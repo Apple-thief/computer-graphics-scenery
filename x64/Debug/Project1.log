@@ -1,0 +1,24 @@
+﻿  Source.c
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1451,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1451,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1451,10): message : the missing variadic argument 2 is required by format string '%c'
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1451,10): message : this argument is used as a buffer size
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1457,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Source.c(1458,19): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+Source.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function idle
+Source.obj : error LNK2019: unresolved external symbol glutCreateMenu referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutAddMenuEntry referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutAttachMenu referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutMouseFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutIdleFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutBitmapCharacter referenced in function declare
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 15 unresolved externals

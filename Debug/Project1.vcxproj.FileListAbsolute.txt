@@ -1,0 +1,4 @@
+C:\Users\maury\Desktop\TrainProj\Project1\Debug\Project1.exe
+D:\COLLEGE\BNMIT\SEMESTER 6\CGL\project\project\TrainProj\Project1\Debug\Project1.exe
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Project1\Debug\Project1.exe
+D:\Documents\college\books\VI SEM\computer graphics\assignments\Final CGI project\project\Project1\Debug\Project1.exe
